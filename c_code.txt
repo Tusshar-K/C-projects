@@ -1,3 +1,14 @@
+jenkins
+Tusshar
+12345
+
+email
+hsfu mpxn gwkz wari
+
+tomcat
+admin
+1234
+
 ✅ WEEK 8 — Jenkins Freestyle Jobs (VERY BEGINNER VERSION) 
 
 Goal: Learn how to run Java & Web projects automatically using Jenkins. 
@@ -629,5 +640,6 @@ Paste in browser → Your website appears 🎉
 sudo docker ps -> gives container id  
 
 sudo docker stop <container id> 
+
 
  
